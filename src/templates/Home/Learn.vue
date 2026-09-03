@@ -4,6 +4,6 @@
       <p class="text-[35px] font-[innes] font-bold text-[#1B3764]">What will you learn?</p>
       <div class="h-[2px] bg-[#FFCA42] w-[200px]"></div>
     </div>
-    <div class="bchsdbs">ckjsdbcjhsbdchjs</div>
+    <div class="bchsdbs">Loading...</div>
   </div>
 </template>
