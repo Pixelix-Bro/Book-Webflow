@@ -4,14 +4,14 @@
     class="flex md:justify-between w-full h-full flex-col md:flex-row justify-center gap-[60px] mb-[30px]"
   >
     <div class="relative flex flex-col grow">
-      <div class="flex grow">
+      <div class="flex grow group">
         <img
           src="../../../public/images/left_one.png"
           alt="photo"
           class="md:h-[60vh] w-[60%] flex grow-[0.5] h-[30%]"
         />
         <div
-          class="absolute -z-40 border-[12px] w-[85%] flex grow-[0.7] border-amber-400 h-full bottom-[-30px]"
+          class="absolute group-hover:w-[80%] transition-all duration-200 group-hover:h-1 top-0 -z-40 border-[12px] w-[85%] flex grow-[0.7] border-amber-400 h-[105%] bottom-[-30px]"
         ></div>
       </div>
     </div>
@@ -60,12 +60,12 @@
           </p>
         </div>
       </div>
-      <div class="flex p-[14px] bg-[#1B3764] md:gap-[37px]">
+      <div class="flex p-[14px] bg-[#1B3764] md:gap-[37px] group hover:p-0 transition-all duration-200">
         <div class="img">
           <img
             src="../../../public/images/right-one.png"
             alt=" Qr code"
-            class="w-[75%]"
+            class="w-[75%] group-hover:w-[100%] transition-all duration-200"
           />
         </div>
         <div class="flex flex-col">
@@ -83,5 +83,5 @@
     </div>
   </div>
 
-  
+
 </template>

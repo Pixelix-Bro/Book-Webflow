@@ -1,8 +1,8 @@
 <template>
   <div class="lg:flex-row flex flex-col-reverse gap-[20px] h-6/12 mt-[-100px]">
     <div class="flex grow flex-col gap-[40px]">
-      <div class="flex items-center gap-[5px]">
-        <div class="bg-amber-300 h-[1px] w-[50px]"></div>
+      <div class="flex items-center gap-[5px] group">
+        <div class="bg-amber-300 h-[1px] w-[50px] group-hover:animate-ping  transition-all duration-200 "></div>
         <p class="font-[inner] text-white">Welcome to Pages</p>
       </div>
       <div class="flex flex-col gap-[30px]">
@@ -52,8 +52,8 @@
         </div>
       </div>
     </div>
-    <div class="flex grow">
-      <img src="/images/Book.png" alt="photo" class="flex lg:grow w-[300px] lg:w-auto" />
+    <div class="flex grow group w-[300px] lg:w-[600px] cursor-pointer">
+      <img src="/images/Book.png" alt="photo" class="flex lg:grow w-[300px] lg:w-auto group-hover:border-[10px] transition-all duration-200 border-amber-400" />
     </div>
   </div>
 </template>
