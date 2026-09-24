@@ -68,7 +68,7 @@
             class="w-[75%] group-hover:w-[100%] transition-all duration-200"
           />
         </div>
-        <div class="flex flex-col">
+        <div class="flex flex-col group-hover:p-[14px] transition-all duration-200">
           <p class="md:text-[22px] font-[innes] text-[#FFCA42] text-[16px]">
             John Abraham , Ph.d
           </p>

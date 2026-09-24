@@ -18,7 +18,7 @@
       </div>
       <div class="flex gap-[10px] items-center">
         <button
-          class="bg-[#FFCA42] text-[#1B3764] pt-[14px] pb-[14px] pl-[20px] pr-[20px] font-[inner] hover:rounded-2xl transition-all duration-200"
+          class="bg-[#FFCA42]  text-[#1B3764] pt-[14px] pb-[14px] pl-[20px] pr-[20px] font-[inner] hover:rounded-2xl transition-all duration-200"
         >
           Order Today
         </button>
