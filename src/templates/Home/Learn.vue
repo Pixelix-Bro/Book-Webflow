@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="flex gap-[40px] flex-wrap">
-      <div class="flex flex-col gap-[20px] bg-[#F4F8FF] w-[290px] p-[20px]">
+      <div class="flex flex-col gap-[20px] bg-[#F4F8FF] md:w-[290px] p-[20px]">
         <p
           class="head bg-[#FFCA42] text-[25px] text-[#1B3764] font-[innes] rounded-[50%] w-[50px] h-[50px] flex justify-center items-center font-bold"
         >
