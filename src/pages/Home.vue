@@ -4,7 +4,6 @@ import Bast from '../templates/Home/Bast.vue'
 import GetBook from '../templates/Home/GetBook.vue'
 import Hero from '../templates/Home/Hero.vue'
 import HeroBottom from '../templates/Home/HeroBottom.vue'
-import Learn from '../templates/Home/Learn.vue'
 import Chapter from '../templates/Home/Chapter.vue'
 </script>
 
@@ -22,7 +21,6 @@ import Chapter from '../templates/Home/Chapter.vue'
         <Bast />
       </div>
       <GetBook />
-      <Learn />
       <Chapter/>
     </div>
   </div>
